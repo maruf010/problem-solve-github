@@ -1,0 +1,9 @@
+div{
+    background-color: bisque;
+    padding: 10px;
+    box-shadow: 20px 20px 20px;
+    /* border-radius: 10px ; */
+}
+p{
+    color: brown;
+}
